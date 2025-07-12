@@ -387,23 +387,5 @@ bitrix-hero-section {
   transform: translateY(-2px);
 }
 
-@media (max-width: 768px) {
-  .hero-title {
-    font-size: 2.25rem;
-  }
-
-  .hero-subtitle {
-    font-size: 1rem;
-  }
-
-  .bitrix-logo-row {
-    flex-direction: column;
-    gap: 6px;
-  }
-
-  .bitrix-logo {
-    margin-bottom: 8px;
-  }
-}
 
 
